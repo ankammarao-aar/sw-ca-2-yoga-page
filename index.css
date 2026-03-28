@@ -37,3 +37,58 @@
     border: 0px;
     border-radius: 8px;
 }
+
+.types-of-yoga-bg-container {
+    background-color: #ffedcb;
+    background-size: cover;
+    font-family: "Roboto";
+}
+
+.types-of-yoga-image-card {
+    text-align: center;
+}
+
+.types-of-yoga-image {
+    height: 40vh;
+    margin-top: 30px;
+}
+
+.types-of-yoga-heading {
+    font-size: 26px;
+    color: #132d84;
+    margin-top: 20px;
+}
+
+.types-of-yoga-card {
+    background-color: #fad693;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 12px;
+}
+
+.types-of-yoga-text-card {
+    padding: 12px;
+}
+
+.types-of-yoga-card-img {
+    height: 20vh;
+}
+
+.types-of-yoga-card-heading {
+    font-size: 22px;
+    color: #253263;
+}
+
+.types-of-yoga-card-para {
+    font-size: 14px;
+    color: #323f4b;
+}
+
+.back-button {
+    background-color: #132d84;
+    color: #ffedcb;
+    height: 38px;
+    width: 82px;
+    border-radius: 8px;
+    border: 0px;
+}
